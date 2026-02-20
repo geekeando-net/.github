@@ -21,7 +21,7 @@ En nuestros repositorios compartimos recursos para mentes curiosas:
 | Proyecto | Descripción | Estado |
 | :--- | :--- | :--- |
 | [**geekeando-net.github.io**](https://github.com/geekeando-net/geekeando-net.github.io) | El motor de nuestro blog (Vercel + GitHub) | 🟢 Activo |
-| [**Legacy-Archive**](https://github.com/geekeando-net/geekeando-legacy) | Repositorio histórico y de respaldo | 🔒 Archivado |
+| [**Legacy-Archive**](https://github.com/geekeando-net/geekeando-old) | Repositorio histórico y de respaldo | 🔒 Archivado |
 
 ---
 
